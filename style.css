@@ -57,7 +57,7 @@
       background: hsl(0, 0%, 95%);
       display: inline-block;
       position: absolute;
-      bottom: 30px;
+      bottom: 50px;
       text-decoration: none;
       border: 1px solid hsl(0, 0%, 95%);
       transition: all 0.3s ease;
