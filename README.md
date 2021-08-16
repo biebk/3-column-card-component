@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/biebk/order-card-component
-- Live Site URL:https://biebk.github.io/order-card-component/
+- Solution URL: https://github.com/biebk/3-column-card-component
+- Live Site URL:https://biebk.github.io/3-column-card-component/
 
 ## My process
 In order to center the card component I have used css flex in the body.Similarly I have also used flexbox property on container to align column nicely next to each other. CSS flex can be very handy when it comes to put any items vertically and horizantally center. Except from that, I have used core css knowledge to perfectly build the card component.
