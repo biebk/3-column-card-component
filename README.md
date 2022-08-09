@@ -1,10 +1,6 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-
-## Overview
-This is my solution to third challenge - Frontend Mentor - 3 column card component
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
 
 ### The challenge
 
@@ -18,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/biebk/3-column-card-component
-- Live Site URL:https://biebk.github.io/3-column-card-component/
+- Solution URL: https://github.com/pantbibek21/3-column-card-component
+- Live Site URL:[https://pantbibek21.github.io/3-column-card-component/](https://pantbibek21.github.io/3-column-card-component/)
 
 ## My process
 In order to center the card component I have used css flex in the body.Similarly I have also used flexbox property on container to align column nicely next to each other. CSS flex can be very handy when it comes to put any items vertically and horizantally center. Except from that, I have used core css knowledge to perfectly build the card component.
@@ -36,4 +32,4 @@ In this challenge I have applied my fundamentals CSS knowledge to built the layo
 
 ## Author
 - Frontend Mentor - [@bibek] https://www.frontendmentor.io/profile/biebk
-##  Thank you I you have come so far reading this !
+
